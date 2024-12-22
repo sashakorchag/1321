@@ -1,10 +1,10 @@
-module github.com/Yandex-Practicum/42-docker-final
+module 12
 
 go 1.22
 
 require (
 	github.com/stretchr/testify v1.10.0
-	modernc.org/sqlite v1.34.2
+	modernc.org/sqlite v1.34.4
 )
 
 require (

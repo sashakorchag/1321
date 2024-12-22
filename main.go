@@ -1,5 +1,6 @@
 package main
 
+// Проверка создания PR для отправки задания на проверку
 import (
 	"database/sql"
 	"fmt"
